@@ -1,0 +1,28 @@
+{
+  "name": "backend_demo",
+  "version": "1.0.0",
+  "description": "This is our first backend",
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "homepage": "https://github.com/prana-W/Backend_Full_Course#readme",
+  "bugs": {
+    "url": "https://github.com/prana-W/Backend_Full_Course/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prana-W/Backend_Full_Course.git"
+  },
+  "license": "ISC",
+  "author": "Pranaw Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
